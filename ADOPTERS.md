@@ -10,3 +10,4 @@
 |[ABN AMRO](https://www.abnamro.nl/nl/prive/index.html) | Jasper.Behnken@nl.abnamro.com | Used as a part of the bank's sustainability plan to improve sustainability within IT and the bank |
 |[Oda](https://oda.com) | [@kolonialno](https://github.com/kolonialno) | Measure energy (kWh) related to the servers/data centers we use (GCP) necessary for our climate accounting. Improve sustainability of our operations. |
 |[Aiven](https://aiven.io) | [@rsalevsky](https://github.com/rsalevsky) | Provide customers with carbon emissions metrics based on cloud resource consumption in our console experience. |
+|[Zendesk](https://www.zendesk.com) | [@aglover-zendesk](https://github.com/aglover-zendesk) | Provide visibility to the environmental impact engineers make when they build resource-efficient services. Provide customers with carbon emissiosn metrics. |
